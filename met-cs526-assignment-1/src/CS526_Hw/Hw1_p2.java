@@ -42,7 +42,8 @@ public class Hw1_p2 {
         // read input file and store 10 car Objects in the array
     	System.out.println(new File(".").getAbsolutePath());
         Car[] cars = new Car[10];
-        File myObj = new File("/Users/tomas/Desktop/JavaProjects/CS526_HW1/src/CS526_Hw/car_input.txt");
+        String dir = System.getProperty("user.dir");
+        File myObj = new File(dir + "/src/CS526_Hw/car_input.txt");
         Scanner myReader = new Scanner(myObj);
         int counter = 0;
         while (myReader.hasNextLine()) {

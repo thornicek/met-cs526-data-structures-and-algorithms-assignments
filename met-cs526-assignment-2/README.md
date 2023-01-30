@@ -1,0 +1,3 @@
+# CS526 Assignment 2 Tomas Hornicek
+
+My assignment 2 resides in the following location: /src/cs526_hw2/Hw2_p3.java. For this assignment I received the DoublyLinkedList and DoubleLinkNode classes to work with. The goal for assignment 2 was to practice using and manipulating with the doubly linked list and practicing and implementing a small recursive method. The file "Hw2_p3.java" contains two methods; reverse and main. The reverse method receives a doubly linked list that stores integeres and it reverses the order of all integers in the list. This is done in a recursive method. 

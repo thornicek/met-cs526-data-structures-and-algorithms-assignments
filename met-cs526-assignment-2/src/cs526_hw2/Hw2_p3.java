@@ -28,7 +28,7 @@ public class Hw2_p3 {
 	}
 	
 	// use the main method for testing
-	// test with arrays of different lenghts
+	// test with arrays of different lengths
 	public static void main(String[] args) {
 
 		
